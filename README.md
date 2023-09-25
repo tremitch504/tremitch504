@@ -1,4 +1,4 @@
-# Hi I'm Tre'von 👋
+## <div align="center">Hi I'm Tre'von 👋 </div>
 
 ## <div align="center">Full-Stack Software Developer </div>
 
