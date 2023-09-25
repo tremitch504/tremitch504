@@ -8,7 +8,7 @@
 ## <div align="center">Connect with me! 🛜</div>
 
 
-<img alt="linkedin profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/tre-mitch/" ><img alt="linkedin profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 
 <!--
