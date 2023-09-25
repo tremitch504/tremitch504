@@ -7,7 +7,8 @@
 
 ## <div align="center">Connect with me! 🛜</div>
 
-<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/:user">
+
+<img alt="linkedin profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 
 <!--
