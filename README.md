@@ -2,7 +2,7 @@
 
 #### <div align="center">Full-Stack Software Developer 💻📱 </div>
 
-<p align="center">I have a passion for building creative applications that can give users an enjoyable experience. With a background of frontend and backend work I appreciate every detail and portion of developement to make something unique and effective. Currently working to build an Ecommerce Website and use technologies like TypeScript and Next.js to upscale my skills. Looking foward to elevate my career to the next level and always happy to connect with other devs to learn and help in anyway. </p>
+<p align="center">I have a passion for building creative applications that can give users an enjoyable experience. With a background of frontend and backend work I appreciate every detail and portion of developement to make something unique and effective. Currently working on a Weather App with Vue.js and to build an Ecommerce Website and use technologies like TypeScript and Next.js to upscale my skills. Looking foward to elevate my career to the next level and always happy to connect with other devs to learn and help in anyway. </p>
 
 
 ### <div align="center">Connect with me! 🛜</div>
