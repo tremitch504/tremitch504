@@ -67,9 +67,6 @@
 			<b>Vue ToDo List</b>
 		</td>
 		
-		<td>
-			<b>Vue ToDo List</b>
-		</td>
 	</thead>
 	<tr>
 		<td>
