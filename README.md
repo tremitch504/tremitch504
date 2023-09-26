@@ -12,6 +12,12 @@
 <a href="https://twitter.com/trevonjmitch" target="_blank" ><img alt="linkedin profile" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </div>
 
+### Check out my Portfolio Website here ⬇️
+
+https://trevonmitchell.netlify.app
+
+
+
 # <div align="center">Languages and Tools </div>
 <div style="display: flex; flex-direction: column; justify-content: space-between; padding: 3rem">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" style="height: 80px;" />
