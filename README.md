@@ -48,7 +48,7 @@
 <div style="display: flex; flex-direction: column">
     <div className="portfolio-image">
 
-<img  />
+<img src="./weatherapppreview.png"/>
 
     </div>
 </div>
