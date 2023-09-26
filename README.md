@@ -58,13 +58,32 @@
 |
 
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|The Weather App <img src="/WeatherAppPreview.png" style="height: 250px"/>
-Website that provides users the best and real time forecast. Users can be updated on present or upcoming days for current location or future destinations. This app is built with Vue as the frontend framework and Vite for the built in local server and build or bundle the assests. |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-
+<table>
+	<thead>
+		<td>
+			<b>The Weather App</b>
+		</td>
+		<td>
+			<b>The Weather App</b>
+		</td>
+	</thead>
+	<tr>
+		<td>
+		<img src="/WeatherAppPreview.png" style="height: 250px"/>
+		</td>
+		<td>
+         <img src="/WeatherAppPreview.png" style="height: 250px"/>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			
+		</td>
+		<td>
+		
+		</td>
+	</tr>
+</table>
 <!--
 **tremitch504/tremitch504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
