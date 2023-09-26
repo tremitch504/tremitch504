@@ -83,6 +83,9 @@
 
 <p>Operated an application built with Vue.JS to give a user the ability to insert tasks or goals to get done into a list where a certain task can be marked as completed, edit a task, and delete.</p>
 
+<h3>Tic-Tac-Toe-Game</h3>
+<img src="/TicTacToe.png" style="height: 250px"/>
+<p>A board game mini project using Java to develop, where the game allows a Player to go up against the CPU and will determine a winner between the two.</p>
 </div>
 
 
