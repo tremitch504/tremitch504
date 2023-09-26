@@ -64,20 +64,28 @@
 			<b>The Weather App</b>
 		</td>
 		<td>
-			<b>The Weather App</b>
+			<b>Vue ToDo List</b>
+		</td>
+		
+		<td>
+			<b>Vue ToDo List</b>
 		</td>
 	</thead>
 	<tr>
 		<td>
 		<img src="/WeatherAppPreview.png" style="height: 250px"/>
+
+   <p>Website that provides users the best and real time forecast. Users can be updated on present or upcoming days for current location or future destinations. This app is built with Vue as the frontend framework and Vite for the built in local server and build or bundle the assests.</p>|
 		</td>
 		<td>
-         <img src="/WeatherAppPreview.png" style="height: 250px"/>
+         <img src="/Screenshot 2023-04-18 at 12.13.05 PM.png" style="height: 250px"/> 
 		</td>
 	</tr>
 	<tr>
 		<td>
 	            <img src="/Screenshot 2023-04-18 at 12.13.05 PM.png" style="height: 250px"/> 
+
+                
 		</td>
 		<td>
 		
