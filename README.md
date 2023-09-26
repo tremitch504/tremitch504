@@ -58,6 +58,15 @@
 |
 
 
+(|  <h3>The Weather App</h3>
+<img src="/WeatherAppPreview.png" style="height: 250px"/>
+
+<p>Website that provides users the best and real time forecast. Users can be updated on present or upcoming days for current location or future destinations. This app is built with Vue as the frontend framework and Vite for the built in local server and build or bundle the assests.</p>   | <h3>The Weather App</h3>
+<img src="/WeatherAppPreview.png" style="height: 250px"/>
+
+<p>Website that provides users the best and real time forecast. Users can be updated on present or upcoming days for current location or future destinations. This app is built with Vue as the frontend framework and Vite for the built in local server and build or bundle the assests.</p>|3|
+|:---:|:---:|:---:|
+|4|5|6|)
 
 <!--
 **tremitch504/tremitch504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
