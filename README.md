@@ -15,6 +15,7 @@
 ### Check out my Portfolio Website here ⬇️
 
 https://trevonmitchell.netlify.app
+<img src="/portfolioView.png" style="height: 250px"/>
 
 
 
