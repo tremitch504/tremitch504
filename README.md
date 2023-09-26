@@ -43,7 +43,7 @@
 
 # <div align="center">Featured Projects </div>
 
-
+<div align="center">
 <h3><img style="height: 20px;" src="/weather-app.png">The Weather App</h3>
 <img src="/WeatherAppPreview.png" style="height: 250px"/>
 
@@ -71,6 +71,7 @@
 
 <p>Operated an application built with Vue.JS to give a user the ability to insert tasks or goals to get done into a list where a certain task can be marked as completed, edit a task, and delete.</p>
 
+</div>
 
 
 
