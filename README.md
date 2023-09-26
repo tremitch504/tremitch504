@@ -14,8 +14,8 @@
 
 # <div align="center">Languages and Tools </div>
 <div style="display: flex; flex-direction: column; justify-content: space-between; padding: 3rem;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain-wordmark.svg" style="height: 80px;"/>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" style="height: 80px;" />
+   
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  style="height: 80px;"/>  
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="height: 80px;"/>
