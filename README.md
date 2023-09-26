@@ -12,10 +12,10 @@
 <a href="https://twitter.com/trevonjmitch" target="_blank" ><img alt="linkedin profile" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </div>
 
-### Check out my Portfolio Website here ⬇️
+### <div align="center"> Check out my Portfolio Website here ⬇️ </div>
 
-https://trevonmitchell.netlify.app
-<div>
+<div align="center">https://trevonmitchell.netlify.app </div>
+<div align="center">
 <img src="/portfolioView.png" style="height: 250px"/>
 </div>
 
