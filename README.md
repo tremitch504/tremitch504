@@ -12,9 +12,9 @@
 <a href="https://twitter.com/trevonjmitch" target="_blank" ><img alt="linkedin profile" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </div>
 
-### <div align="center"> Check out my Portfolio Website here ⬇️ </div>
+### <div align="center"> Check out my Portfolio Website below ⬇️ </div>
 
-<div align="center"><a href="https://trevonmitchell.netlify.app" >trevonmitchell.netlify.app </a> </div>
+<div align="center" style="padding-bottom: 3rem;"><a href="https://trevonmitchell.netlify.app" >trevonmitchell.netlify.app </a> </div>
 <div align="center">
 <img src="/portfolioView.png" style="height: 250px"/>
 </div>
