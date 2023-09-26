@@ -60,7 +60,7 @@
 
    
 <h3>Vue ToDo List</h3>
-<img src="/Screenshot 2023-04-18 at 12.13.05 PM.png"/>
+<img src="/Screenshot 2023-04-18 at 12.13.05 PM.png" style="height: 250px"/>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
