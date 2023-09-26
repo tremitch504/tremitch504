@@ -43,52 +43,20 @@
 
 # <div align="center">Featured Projects </div>
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<h3>The Weather App</h3>
-<img src="/WeatherAppPreview.png" style="height: 250px"/>
 
-<p>Website that provides users the best and real time forecast. Users can be updated on present or upcoming days for current location or future destinations. This app is built with Vue as the frontend framework and Vite for the built in local server and build or bundle the assests.</p>|
-   
-
-|<h3>The Weather App</h3>
+<h3>The Weather App</h3>
 <img src="/WeatherAppPreview.png" style="height: 250px"/>
 
 <p>Website that provides users the best and real time forecast. Users can be updated on present or upcoming days for current location or future destinations. This app is built with Vue as the frontend framework and Vite for the built in local server and build or bundle the assests.</p>
-|
-
-
-<table>
-	<thead>
-		<td>
-			<b>The Weather App</b>
-		</td>
-		<td>
-			<b>Vue ToDo List</b>
-		</td>
-		
-	</thead>
-	<tr>
-		<td>
+   
+<h3>The Weather App</h3>
 <img src="/WeatherAppPreview.png" style="height: 250px"/>
 
-   <p>Website that provides users the best and real time forecast. Users can be updated on present or upcoming days for current location or future destinations. This app is built with Vue as the frontend framework and Vite for the built in local server and build or bundle the assests.</p>|
-		</td>
-		<td>
-         <img src="/Screenshot 2023-04-18 at 12.13.05 PM.png" style="height: 250px"/> 
-		</td>
-	</tr>
-	<tr>
-		<td>
-	            <img src="/Screenshot 2023-04-18 at 12.13.05 PM.png" style="height: 250px"/> 
+<p>Website that provides users the best and real time forecast. Users can be updated on present or upcoming days for current location or future destinations. This app is built with Vue as the frontend framework and Vite for the built in local server and build or bundle the assests.</p>
 
-                
-		</td>
-		<td>
-		
-		</td>
-	</tr>
-</table>
+
+
+
 <!--
 **tremitch504/tremitch504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
