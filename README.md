@@ -85,6 +85,7 @@
 
 <h3>Tic-Tac-Toe-Game</h3>
 <img src="/TicTacToe.png" style="height: 250px"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 <p>A board game mini project using Java to develop, where the game allows a Player to go up against the CPU and will determine a winner between the two.</p>
 </div>
 
