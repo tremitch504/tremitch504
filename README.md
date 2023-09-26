@@ -14,7 +14,7 @@
 
 ### <div align="center"> Check out my Portfolio Website here ⬇️ </div>
 
-<a href="https://trevonmitchell.netlify.app">trevonmitchell.netlify.app </a>
+<a href="https://trevonmitchell.netlify.app" align="center">trevonmitchell.netlify.app </a>
 <div align="center">
 <img src="/portfolioView.png" style="height: 250px"/>
 </div>
