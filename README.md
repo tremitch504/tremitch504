@@ -52,6 +52,14 @@
 </div>
 <p>Website that provides users the best and real time forecast. Users can be updated on present or upcoming days for current location or future destinations. This app is built with Vue as the frontend framework and Vite for the built in local server and build or bundle the assests.</p>
 </div>
+   
+<div style="display: flex; flex-direction: column">
+<h3>The Weather App</h3>
+    <div>
+<img src="/WeatherAppPreview.png" style="height: 250px"/>
+</div>
+<p>Website that provides users the best and real time forecast. Users can be updated on present or upcoming days for current location or future destinations. This app is built with Vue as the frontend framework and Vite for the built in local server and build or bundle the assests.</p>
+</div>
 </div> 
 
 
