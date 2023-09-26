@@ -47,6 +47,8 @@
 <h3><img style="height: 20px;" src="/weather-app.png">The Weather App</h3>
 <img src="/WeatherAppPreview.png" style="height: 250px"/>
 
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+
 <p>Website that provides users the best and real time forecast. Users can be updated on present or upcoming days for current location or future destinations. This app is built with Vue as the frontend framework and Vite for the built in local server and build or bundle the assests.</p>
    
 <h3>The Weather App</h3>
