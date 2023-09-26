@@ -38,6 +38,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" style="height: 80px;"/>
                  
 </div>
+
+
+
+# <div align="center">Featured Projects </div>
+
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr);">
+<div style="display: flex; flex-direction: column">
+    <div className="portfolio-image">
+
+<img  />
+
+    </div>
+</div>
+</div>
+
+   
+</div>
 <!--
 **tremitch504/tremitch504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
