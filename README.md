@@ -44,7 +44,7 @@
 # <div align="center">Featured Projects </div>
 
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr);">
+<div style="display: flex;">
 <div style="display: flex; flex-direction: column">
 <h3>The Weather App</h3>
     <div>
