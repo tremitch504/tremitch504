@@ -60,6 +60,9 @@
 <img src="/WeatherAppPreview.png" style="height: 250px"/>
 
 <div align="center">
+<img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px">
+</div>
+<div align="center">
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF" />
