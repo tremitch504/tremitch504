@@ -60,7 +60,8 @@
 <img src="/WeatherAppPreview.png" style="height: 250px"/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px">
+<a href="https://github.com/tremitch504/The-Weather-App"> <img src="https://img.shields.io/badge/-repo-CAC9CB?style=flat-square&logo=github&logoColor=79668c" alt="button to repository" height ="25px"> </a>
+<a href="https://theweatherapp-trevonwebsites.netlify.app"><img src="https://img.shields.io/badge/-live%20site-35393F?style=flat-square" alt="button to live site" height="25px"> </a>
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
