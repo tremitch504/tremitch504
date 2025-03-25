@@ -24,7 +24,7 @@
 
 # <div align="center">Languages and Tools </div>
 <div style="display: flex; flex-direction: column; justify-content: space-between; padding: 3rem">
-   <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css](https://x.com/discussingfilm/status/1904220964314841523?s=46)" style="height: 80px;"/>
+   <img src=""https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="height: 80px;"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" style="height: 80px;"/>
    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" style="height: 80px;" />
